@@ -1,0 +1,16 @@
+{
+  "name": "babel-preset-tegridy-jsx",
+  "version": "1.0.1",
+  "description": "Babel preset to transform JSX into Tegridy.createComponent calls.",
+  "author": "Liron Navon <lironavon42@gmail.com>",
+  "homepage": "https://github.com/liron-navon/babel-preset-tegridy-jsx",
+  "license": "MIT",
+  "repository": "liron-navon/babel-preset-tegridy-jsx",
+  "main": "index.js",
+  "dependencies": {
+    "babel-plugin-syntax-jsx": "^6.18.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1"
+  },
+  "devDependencies": {
+  }
+}
